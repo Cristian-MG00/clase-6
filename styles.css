@@ -1,5 +1,4 @@
-h1,
-p {
+.mismo_estilo {
   color: darkslategrey;
   font-family:"Montserrat";
   background-color: whitesmoke;
@@ -9,7 +8,7 @@ p {
   font-size: 20px;
 }
 
-p {
+#unico_estilo{
   font-weight: bold;
   font-style: italic;
   line-height: 1.5;
@@ -30,4 +29,8 @@ li {
 
 a:hover {
   color:darkturquoise;
+}
+
+ul p {
+  text-align: center;
 }
