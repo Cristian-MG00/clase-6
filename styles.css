@@ -22,3 +22,12 @@ img {
   display: block;
   margin: auto;
 }
+
+li {
+  display: inline;
+  margin-inline: 40px;
+}
+
+a:hover {
+  color:darkturquoise;
+}
